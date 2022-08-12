@@ -1,3 +1,3 @@
 # PersonalProject
 
-<h1>Overtime Calculation -- JAVA</h1>
+<h2>Overtime Calculation -- JAVA</h2>
